@@ -1,6 +1,6 @@
 # Track 1 - Day 25 — AI Team Lab
 
-- Team: Team01 (mã tạm, cần đổi nếu lớp đã cấp mã nhóm khác)
+- Team: Team01
 - Trưởng nhóm: Đinh Trường An
 - Thành viên (5 người):
   - Đinh Trường An — 2A202602393
@@ -8,14 +8,10 @@
   - Trần Phạm Thái Vũ — 2A202602695
   - Ninh Quang Minh — 2A202602432
   - Nguyễn Anh Dũng — 2A202602554
-- Tên dự án: P-145 Buddy — Onboarding nhân sự y tế
-- Repository sản phẩm: https://github.com/AI20K-Build-Phase-Cohort-4/P-145
-- Link sản phẩm/demo: chưa xác nhận URL demo công khai; hướng dẫn demo trong repository sản phẩm.
-- Mục tiêu đề xuất: trong 30 ngày, hoàn thiện demo xuyên suốt bằng dữ liệu giả lập và bộ ca đánh giá trước khi xin pilot.
+- Tên dự án: StudyMate — Trợ lý AI học từ tài liệu
+- Giai đoạn: dự án đề xuất, thiết kế MVP.
+- Link sản phẩm/demo: chưa có.
 
 ## Bài nộp
 
 File: [Day25_AI-Team-Lab_Team01.pdf](Day25_AI-Team-Lab_Team01.pdf)
-
-PDF gồm 4 trang: Stakeholder Map & Strategy; Pitch & RACI; AI Team Design; Team Health & Growth Plan.
-
