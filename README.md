@@ -19,6 +19,3 @@ File: [Day25_AI-Team-Lab_Team01.pdf](Day25_AI-Team-Lab_Team01.pdf)
 
 PDF gồm 4 trang: Stakeholder Map & Strategy; Pitch & RACI; AI Team Design; Team Health & Growth Plan.
 
-## Trạng thái
-
-Bản kế hoạch đề xuất. Danh sách thành viên và trưởng nhóm đã xác nhận. Phân công cần được nhóm nhận việc; stakeholder khách hàng và stance là giả thuyết tiếp cận. Phiếu điểm cá nhân chưa được nhóm tự chấm; baseline đề xuất không thay cho kết quả khảo sát. Chưa nộp VLearn.
